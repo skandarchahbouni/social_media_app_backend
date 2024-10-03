@@ -10,4 +10,4 @@ A backend service for a social media application, built using JavaScript. The pr
 - **`static/images/`**: Static images for the application.
 - **`utils/`**: Utility functions.
 
-For more details and a live demo, check the [GitHub repository]([https://github.com/skandarchahbouni/social_media_app_backend](https://drive.google.com/file/d/16rUBXWDnm5UbTCSYqB1UqpjPtYFNUyRX/view?usp=sharing)). 🚀
+For more details and a live demo, check this [link]([https://github.com/skandarchahbouni/social_media_app_backend](https://drive.google.com/file/d/16rUBXWDnm5UbTCSYqB1UqpjPtYFNUyRX/view?usp=sharing)). 🚀
