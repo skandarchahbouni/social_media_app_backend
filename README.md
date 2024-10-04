@@ -10,6 +10,4 @@ A backend service for a social media application, built using JavaScript. The pr
 - **`static/images/`**: Static images for the application.
 - **`utils/`**: Utility functions.
 
-- [](url)
-
 For more details and a live demo, check this [link](https://drive.google.com/file/d/16rUBXWDnm5UbTCSYqB1UqpjPtYFNUyRX/view?usp=sharing). 🚀
